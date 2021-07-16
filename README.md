@@ -8,7 +8,7 @@ sudo vim /usr/share/applications/AnypointStudio.desktop
 [Desktop Entry]
 Version=7.10
 Type=Application
-Terminal=true
+Terminal=false
 Exec=[installation-directory]/AnypointStudio/AnypointStudio
 Name=AnypointStudio
 Icon=[installation-directory]/AnypointStudio/icon.xpm
